@@ -3,3 +3,9 @@ body {
    background-color: black;
    font-size: x-large;
 }
+p {
+   border-style: double dashed;
+   border-color: rgba(104, 209, 6, 0.411);
+   padding-top: 45px;
+   padding-bottom: 45px;
+}
